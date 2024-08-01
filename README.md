@@ -20,6 +20,10 @@ edgar.santosfdez@gmail.com
 
 See file: resultados_parroquias_2024.csv
 
+See also a preliminary analysis in: 
+
+https://www.kaggle.com/code/edsans/an-lisis-resultados-electorales-en-venezuela-24/notebook
+
 
 **Contexto:**
 
